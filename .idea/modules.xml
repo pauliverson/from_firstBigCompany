@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/editorproject.iml" filepath="$PROJECT_DIR$/editorproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news_backend_singleurl_crawler/toutiao-singleurl-crawler-data/toutiao-singleurl-crawler-data.iml" filepath="$PROJECT_DIR$/news_backend_singleurl_crawler/toutiao-singleurl-crawler-data/toutiao-singleurl-crawler-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news_backend_singleurl_crawler/toutiao-singleurl-crawler-data/toutiao-singleurl-crawler-data-api/toutiao-singleurl-crawler-data-api.iml" filepath="$PROJECT_DIR$/news_backend_singleurl_crawler/toutiao-singleurl-crawler-data/toutiao-singleurl-crawler-data-api/toutiao-singleurl-crawler-data-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news_backend_singleurl_crawler/toutiao-singleurl-crawler-data/toutiao-singleurl-crawler-data-common/toutiao-singleurl-crawler-data-common.iml" filepath="$PROJECT_DIR$/news_backend_singleurl_crawler/toutiao-singleurl-crawler-data/toutiao-singleurl-crawler-data-common/toutiao-singleurl-crawler-data-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news_backend_singleurl_crawler/toutiao-singleurl-crawler-data/toutiao-singleurl-crawler-data-dao/toutiao-singleurl-crawler-data-dao.iml" filepath="$PROJECT_DIR$/news_backend_singleurl_crawler/toutiao-singleurl-crawler-data/toutiao-singleurl-crawler-data-dao/toutiao-singleurl-crawler-data-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news_backend_singleurl_crawler/toutiao-singleurl-crawler-data/toutiao-singleurl-crawler-data-service/toutiao-singleurl-crawler-data-service.iml" filepath="$PROJECT_DIR$/news_backend_singleurl_crawler/toutiao-singleurl-crawler-data/toutiao-singleurl-crawler-data-service/toutiao-singleurl-crawler-data-service.iml" />
+    </modules>
+  </component>
+</project>

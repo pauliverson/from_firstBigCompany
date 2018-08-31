@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="kumo-core-1.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/kumo-core-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/kumo-tokenizers-1.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/kumo-tokenizers-1.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

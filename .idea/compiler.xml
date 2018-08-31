@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="toutiao-singleurl-crawler-data-api" />
+        <module name="toutiao-singleurl-crawler-data-common" />
+        <module name="toutiao-singleurl-crawler-data-dao" />
+        <module name="toutiao-singleurl-crawler-data-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="toutiao-singleurl-crawler-data" target="1.7" />
+      <module name="toutiao-singleurl-crawler-data-api" target="1.7" />
+      <module name="toutiao-singleurl-crawler-data-common" target="1.7" />
+      <module name="toutiao-singleurl-crawler-data-dao" target="1.7" />
+      <module name="toutiao-singleurl-crawler-data-service" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

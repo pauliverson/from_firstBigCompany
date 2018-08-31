@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="toutiao-singleurl-crawler-data-api:war">
+    <output-path>$PROJECT_DIR$/news_backend_singleurl_crawler/toutiao-singleurl-crawler-data/toutiao-singleurl-crawler-data-api/target</output-path>
+    <root id="archive" name="toutiao-singleurl-crawler-data-api.war">
+      <element id="artifact" artifact-name="toutiao-singleurl-crawler-data-api:war exploded" />
+    </root>
+  </artifact>
+</component>
